@@ -3,7 +3,7 @@
 
 ### Team5Star consists of:
 * Yahya Ismail
-* Adham Elshafie
+* Adham El-Shafie
 * Daniel McVicar
 * Daniel Fortunato
 * Sunjik Lee
