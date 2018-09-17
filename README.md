@@ -1,5 +1,5 @@
 # Team5Star
-### This is the repository containing all of the work that will be going into EECS 4312 - Advanced Software Engineering.
+### This is the repository containing all of the work that will be going into EECS 4314 - Advanced Software Engineering.
 
 ### Team5Star consists of:
 * Yahya Ismail
