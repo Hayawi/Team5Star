@@ -6,6 +6,5 @@
 * Adham El-Shafie
 * Daniel McVicar
 * Daniel Fortunato
-* Sunjik Lee
 * Rafay Sheikh
 
